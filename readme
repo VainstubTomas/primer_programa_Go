@@ -1,1 +1,9 @@
 En el mismo repositorio se observaran dos proyectos: uno para la lógica principal del programa y otro para exponer la lógica a través de una API web; imaginando la creación de un sistema de banco en línea.
+
+El sistema de banco en línea:
+
+*Permitirá a los clientes crear una cuenta.
+*Permitirá a los clientes retirar dinero.
+*Permitirá a los clientes transferir dinero a otra cuenta.
+*Proporcionará un extracto de cuenta con los datos del cliente y un saldo final.
+*Expondrá una API web a través de un punto de conexión para imprimir un extracto de cuenta.
