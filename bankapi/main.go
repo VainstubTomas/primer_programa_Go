@@ -2,10 +2,10 @@ package main
 
 import (
 	"fmt"
-	"programa_completo/bankcore/bank"
+	// "programa_completo/bankcore/bank"
 )
 
 func main() {
 
-	fmt.Println(bank.Hello())
+	fmt.Println("")
 }
